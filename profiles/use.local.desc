@@ -1,10 +1,4 @@
-# Copyright 1999-2007 Gentoo Foundation.
-# Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
 
-# This file contains descriptions of local USE flags, and the ebuilds which
-# contain them.
-
-# Keep it sorted.
-
-#net-misc/openswan:checkpoint - Add support for Checkpoint VPN

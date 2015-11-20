@@ -19,9 +19,9 @@ dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/idea-community 12.1.5.129.1328 13.1.3.135.909: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 13.1.5.135.1289 14.1.2.141.713.2: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/idea-ultimate 14.1.2.141.713.2: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/soapui 4.6.0: SoapUI webservice testing tool
-dev-vcs/mercurial-extensions 2014.05.30: Various Mercurial extensions
+dev-vcs/mercurial-extensions 2015.06.07: Various Mercurial extensions
 games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
 games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade
 games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game

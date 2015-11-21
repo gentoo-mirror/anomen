@@ -6,7 +6,7 @@ app-misc/fslint 2.24-r1: A utility to find various forms of lint on a filesystem
 app-misc/lc 1.0.4: Scans for broken symlinks
 app-text/unicode 0.9.8 1 2: Display unicode character properties
 dev-db/dbview 1.0.4: Dbview - view dBase files
-dev-java/dbvis 8.0.5 9.2.3 9.2.4: DB Visualizer (Free Version)
+dev-java/dbvis 9.2.4: DB Visualizer (Free Version)
 dev-java/findbugs 1.3.8: Find Bugs in Java Programs
 dev-java/glassfish 2.1 2.1.1: Glassfish Application Server
 dev-java/jardiff 1.1.0: Compare jar files

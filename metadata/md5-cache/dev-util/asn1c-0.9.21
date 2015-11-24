@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=ASN.1 to C compiler
+EAPI=0
+HOMEPAGE=http://asn1c.sourceforge.net/
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD-2
+SLOT=0
+SRC_URI=mirror://sourceforge/asn1c/asn1c-0.9.21.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=3ed14f1ee6c26588712e12b4305e5957

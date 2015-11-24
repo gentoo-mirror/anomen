@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Tool to flash DVD burner with a binary firmware file
+EAPI=4
+HOMEPAGE=http://binflash.cdfreaks.com
+KEYWORDS=~amd64 ~x86
+LICENSE=as-is
+RESTRICT=strip
+SLOT=0
+SRC_URI=http://binflash.cdfreaks.com/download/1/2/necflash_linux.tgz
+_eclass_exported_funcs=src_install:-
+_md5_=f79d77d3d34efdf23905291dd9718a42

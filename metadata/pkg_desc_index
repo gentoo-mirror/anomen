@@ -1,12 +1,12 @@
 app-cdr/binflash 1.63: Tool to flash DVD burner with a binary firmware file
 app-emulation/wine-cellar 2013.04.11: Anomen's set of scripts for managing Wine prefixes
 app-misc/anomen-toolset 2014.12.25: Anomen's collection of simple shell scripts
-app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
+app-misc/dtmf2num 0.1.1: 
 app-misc/fslint 2.24-r1: A utility to find various forms of lint on a filesystem
-app-misc/lc 1.0.4: Scans for broken symlinks
-app-text/unicode 0.9.8 1 2: Display unicode character properties
+app-misc/lc 1.0.4: 
+app-text/unicode 0.9.8 1 2: 
 dev-db/dbview 1.0.4: Dbview - view dBase files
-dev-java/dbvis 9.2.4: DB Visualizer (Free Version)
+dev-java/dbvis 9.2.4: 
 dev-java/findbugs 1.3.8: Find Bugs in Java Programs
 dev-java/glassfish 2.1 2.1.1: Glassfish Application Server
 dev-java/jardiff 1.1.0: Compare jar files
@@ -15,11 +15,11 @@ dev-java/maven-color 2014.01.09: Colorize Maven output
 dev-java/portecle 1.7: Keystore management tool.
 dev-java/squirrel-sql 3.0.3: SQuirreL SQL Client
 dev-libs/openssl 0.9.8l-r3: Toolkit for SSL v2/v3 and TLS v1
-dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
+dev-perl/SMTP-Server 1.1: 
 dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/idea-community 13.1.3.135.909: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 14.1.2.141.713.2: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/idea-ultimate 14.1.2.141.713.2: 
 dev-util/soapui 4.6.0: SoapUI webservice testing tool
 dev-vcs/mercurial-extensions 2015.06.07: Various Mercurial extensions
 games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
@@ -40,4 +40,4 @@ sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-auth/passwdqc 1.2.2: Password strength checking for PAM aware password changing programs
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1: A small command line application, intended to be a replacement for the apm tool
-x11-misc/xkeyboard-config 2.14: X keyboard configuration database
+x11-misc/xkeyboard-config 2.14: 

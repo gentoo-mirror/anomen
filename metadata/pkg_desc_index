@@ -35,7 +35,6 @@ media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
 media-video/mplayer-bin 1.0_rc1-r3: Pre-build mplayer binary for amd64 systems
 net-misc/freerapid-downloader 0.9.4: Downloader with support for downloading from Rapidshare and other share file archives.
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
-net-nds/ApacheDirectoryStudio 1.5.3.20100330: Apache Directory Studio is an universal LDAP directory tool.
 sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-auth/passwdqc 1.2.2: Password strength checking for PAM aware password changing programs
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives

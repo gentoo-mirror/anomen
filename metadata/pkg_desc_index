@@ -33,6 +33,7 @@ media-sound/asoundconf 1.0.14: Asoundconf is a python script to change your defa
 media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your default sound card
 media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
 media-video/mplayer-bin 1.0_rc1-r3: Pre-build mplayer binary for amd64 systems
+net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-misc/freerapid-downloader 0.9.4: Downloader with support for downloading from Rapidshare and other share file archives.
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
 net-nds/ApacheDirectoryStudio 1.5.3.20100330: Apache Directory Studio is an universal LDAP directory tool.

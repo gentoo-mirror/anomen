@@ -18,6 +18,7 @@ dev-libs/openssl 0.9.8l-r3: Toolkit for SSL v2/v3 and TLS v1
 dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
+dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/idea-community 13.1.3.135.909: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
 dev-util/idea-ultimate 14.1.7.141.3058.30: A complete toolset for web, mobile and enterprise development
 dev-util/soapui 4.6.0: SoapUI webservice testing tool

@@ -19,7 +19,6 @@ dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. 
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/idea-community 13.1.3.135.909: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 14.1.7.141.3058.30: A complete toolset for web, mobile and enterprise development
 dev-util/soapui 4.6.0: SoapUI webservice testing tool
 dev-vcs/mercurial-extensions 2016.10.19: Various Mercurial extensions
 games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D

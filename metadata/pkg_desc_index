@@ -20,7 +20,7 @@ dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. 
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/idea-community 13.1.3.135.909: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/soapui 4.6.0: SoapUI webservice testing tool
+dev-util/soapui 5.3.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/mercurial-extensions 2017.03.06: Various Mercurial extensions
 games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
 games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade

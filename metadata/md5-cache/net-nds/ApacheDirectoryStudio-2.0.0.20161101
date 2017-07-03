@@ -1,13 +1,13 @@
 DEFINED_PHASES=install
-DEPEND=!net-nds/Apache-DS
+DEPEND=!net-nds/Apache-DS !net-nds/ApacheDirectoryStudio:0
 DESCRIPTION=Apache Directory Studio is an universal LDAP directory tool.
 EAPI=3
 HOMEPAGE=http://directory.apache.org/studio/
 KEYWORDS=~amd64 ~x86
 LICENSE=Apache-2.0
-RDEPEND=>=virtual/jre-1.5.0 x11-libs/gtk+:2
-SLOT=0
-SRC_URI=amd64? ( mirror://apache/directory/studio/stable/1.5.3.v20100330/ApacheDirectoryStudio-linux-x86_64-1.5.3.v20100330.tar.gz ) x86? ( mirror://apache/directory/studio/stable/1.5.3.v20100330/ApacheDirectoryStudio-linux-x86-1.5.3.v20100330.tar.gz )
+RDEPEND=>=virtual/jre-1.8.0 x11-libs/gtk+:2
+SLOT=2
+SRC_URI=amd64? ( http://www.us.apache.org/dist/directory/studio/2.0.0.v20161101-M12/ApacheDirectoryStudio-2.0.0.v20161101-M12-linux.gtk.x86_64.tar.gz ) x86? ( http://www.us.apache.org/dist/directory/studio/2.0.0.v20161101-M12/ApacheDirectoryStudio-2.0.0.v20161101-M12-linux.gtk.x86.tar.gz )
 _eclass_exported_funcs=src_install:-
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163	versionator	c80ccf29e90adea7c5cae94b42eb76d0
-_md5_=e592db0d39ebc81fbb4cbbde1f4351df
+_md5_=440b50ad9b8bb5d07120de3104cb4688

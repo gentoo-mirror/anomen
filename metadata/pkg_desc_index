@@ -13,7 +13,7 @@ dev-java/glassfish 2.1 2.1.1: Glassfish Application Server
 dev-java/jardiff 1.1.0: Compare jar files
 dev-java/keystore-explorer 5.1.1: Keystore management tool.
 dev-java/maven-color 2014.01.09: Colorize Maven output
-dev-java/portecle 1.7: Keystore management tool.
+dev-java/portecle 1.9: Keystore management tool.
 dev-libs/openssl 0.9.8l-r3: Toolkit for SSL v2/v3 and TLS v1
 dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.

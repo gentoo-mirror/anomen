@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Anomen's collection of simple shell scripts
+EAPI=4
+HOMEPAGE=https://github.com/anomen-s/anomen-overlay/tree/master/app-misc/anomen-toolset
+IUSE=subversion +xml +jad +mediainfo
+KEYWORDS=amd64 x86
+LICENSE=as-is
+RDEPEND=subversion? ( dev-vcs/subversion ) xml? ( dev-libs/libxml2 ) jad? ( dev-java/jad-bin ) mediainfo? ( media-video/mediainfo ) virtual/libiconv
+SLOT=0
+_eclass_exported_funcs=src_unpack:- src_install:-
+_md5_=b2567252aa9f9c26e332d97a82679207

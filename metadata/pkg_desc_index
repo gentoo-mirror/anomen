@@ -1,7 +1,7 @@
 app-cdr/binflash 1.63: Tool to flash DVD burner with a binary firmware file
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-emulation/wine-cellar 2013.04.11: Anomen's set of scripts for managing Wine prefixes
-app-misc/anomen-toolset 2014.12.25: Anomen's collection of simple shell scripts
+app-misc/anomen-toolset 2017.08.03: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
 app-misc/lc 1.0.4: Scans for broken symlinks
 app-text/unicode 2.5: Display unicode character properties

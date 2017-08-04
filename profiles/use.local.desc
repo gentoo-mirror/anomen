@@ -3,3 +3,6 @@
 # * generated automatically using pmaint *
 
 app-text/unicode:unihan - Add support for Unihan properties (unpack data from app-i18n/unicode-data)
+dev-java/sun-jdk:derby - Enable Installation of Bundled Derby (Java DB)
+dev-java/sun-jdk:jce - Enable Java Cryptographic Extension Unlimited Strength Policy files
+dev-java/sun-jdk:pax_kernel - Use paxctl to mark the JVM binaries.

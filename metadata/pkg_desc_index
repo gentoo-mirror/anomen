@@ -24,6 +24,7 @@ dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/idea-ultimate 14.1.7.141.3058.30: A complete toolset for web, mobile and enterprise development
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.3.0: SoapUI is a free and open source cross-platform Functional Testing solution.
+dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
 dev-vcs/mercurial-extensions 2017.07.03: Various Mercurial extensions
 games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
 games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade

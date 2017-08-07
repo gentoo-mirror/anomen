@@ -11,6 +11,7 @@ dev-db/squirrel-sql 3.7.1: SQuirreL SQL Client
 dev-java/findbugs 1.3.8: Find Bugs in Java Programs
 dev-java/glassfish 2.1 2.1.1: Glassfish Application Server
 dev-java/jardiff 1.1.0: Compare jar files
+dev-java/jd-gui 0.3.5 1.4.0: JD-GUI is a standalone graphical utility that displays Java source codes of ".class" files
 dev-java/keystore-explorer 5.1.1: Keystore management tool.
 dev-java/maven-color 2014.01.09: Colorize Maven output
 dev-java/portecle 1.9: Keystore management tool.

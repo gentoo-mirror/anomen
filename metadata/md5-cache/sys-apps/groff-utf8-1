@@ -9,5 +9,4 @@ RDEPEND=>=sys-apps/groff-1.18.1
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://www.haible.de/bruno/gnu/groff-utf8.tar.gz
-_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_compile:- src_install:-
 _md5_=57b97f6afca72e8d5a9dd4921fd5290b

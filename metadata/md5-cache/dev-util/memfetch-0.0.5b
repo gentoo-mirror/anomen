@@ -7,5 +7,4 @@ LICENSE=GPL-2
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://lcamtuf.coredump.cx/soft/memfetch.tgz
-_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
 _md5_=c3f0043823b328646078e361e22d3c23

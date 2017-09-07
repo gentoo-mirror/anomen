@@ -7,5 +7,4 @@ KEYWORDS=amd64 x86
 LICENSE=as-is
 RDEPEND=xml? ( dev-libs/libxml2 ) jad? ( dev-java/jad-bin ) mediainfo? ( media-video/mediainfo ) xdg? ( x11-misc/xdg-utils ) virtual/libiconv
 SLOT=0
-_eclass_exported_funcs=src_unpack:- src_install:-
 _md5_=40d9b52df2dfdae9020b38515e62d827

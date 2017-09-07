@@ -8,5 +8,4 @@ LICENSE=GPL-2
 RDEPEND=virtual/python >=media-sound/alsa-utils-1.0.14
 SLOT=0
 SRC_URI=http://archive.ubuntu.com/ubuntu/pool/main/a/alsa-utils/alsa-utils_1.0.14-1ubuntu4_i386.deb
-_eclass_exported_funcs=src_unpack:- src_install:-
 _md5_=9c58aa456ae2f4ee587ad08655cf4dd7

@@ -7,5 +7,4 @@ LICENSE=CCPL-Attribution-ShareAlike-NonCommercial-3.0
 RDEPEND=app-arch/unzip virtual/jdk
 SLOT=0
 SRC_URI=http://muzso.hu/dfiles/public/jardiff-1.1.0.sh
-_eclass_exported_funcs=src_unpack:- src_install:-
 _md5_=7c58730aec404e9e20215b0e5172dce0

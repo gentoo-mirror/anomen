@@ -6,5 +6,4 @@ KEYWORDS=amd64 x86
 LICENSE=as-is
 RDEPEND=dev-java/maven-bin:2.2 sys-libs/ncurses || ( >=sys-apps/coreutils-8.15 app-misc/realpath )
 SLOT=0
-_eclass_exported_funcs=src_unpack:- src_install:-
 _md5_=4f739f83f73a241e170b3791ab9cfe10

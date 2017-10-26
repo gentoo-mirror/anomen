@@ -39,6 +39,7 @@ media-sound/asoundconf 1.0.14: Asoundconf is a python script to change your defa
 media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your default sound card
 media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
 media-video/mplayer-bin 1.0_rc1-r3: Pre-build mplayer binary for amd64 systems
+net-analyzer/arp-scan 1.9: ARP scanning and fingerprinting tool
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-analyzer/ssh-audit 1.7.0: SSH server auditing (banner, key exchange, encryption, mac, compression, etc)
 net-misc/freerapid-downloader 0.9.4: Downloader with support for downloading from Rapidshare and other share file archives.

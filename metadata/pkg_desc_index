@@ -31,6 +31,7 @@ dev-vcs/mercurial-extensions 2017.07.03: Various Mercurial extensions
 games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
 games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade
 games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game
+games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 mail-mta/spamsink 0.3: Fake (honey pot) SMTP server
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-fonts/tahoma 1: Microsoft's Tahoma font

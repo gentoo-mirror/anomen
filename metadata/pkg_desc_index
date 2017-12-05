@@ -22,7 +22,7 @@ dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
-dev-util/idea-community 2017.2.3.172.3968.16 2017.2.4.172.4155.36: A complete toolset for web, mobile and enterprise development
+dev-util/idea-community 2017.2.3.172.3968.16 2017.2.4.172.4155.36 2017.3.0.173.3727.127: A complete toolset for web, mobile and enterprise development
 dev-util/idea-ultimate 14.1.7.141.3058.30: A complete toolset for web, mobile and enterprise development
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.3.0: SoapUI is a free and open source cross-platform Functional Testing solution.

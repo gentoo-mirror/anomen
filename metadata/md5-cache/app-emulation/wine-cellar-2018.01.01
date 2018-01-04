@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Anomen's set of scripts for managing Wine prefixes
+EAPI=3
+HOMEPAGE=https://github.com/anomen-s/anomen-overlay/tree/master/app-emulation/wine-cellar
+KEYWORDS=amd64 x86
+LICENSE=as-is
+RDEPEND=|| ( virtual/wine app-emulation/wine )
+SLOT=0
+_md5_=5b82ba50691653ff487b7c0d5c752b88

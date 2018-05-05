@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile install postinst postrm prerm setup unpack
+DEFINED_PHASES=compile install nofetch postinst postrm prerm setup unpack
 DEPEND=jce? ( app-arch/unzip ) kernel_SunOS? ( app-arch/unzip ) pax_kernel? ( sys-apps/paxctl ) selinux? ( sec-policy/selinux-java ) >=dev-java/java-config-2.2.0-r3 >=app-eselect/eselect-java-0.4.0
 DESCRIPTION=Oracle's Java SE Development Kit
 EAPI=5

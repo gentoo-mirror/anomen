@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile install postinst preinst setup unpack
+DEFINED_PHASES=compile install nofetch postinst preinst setup unpack
 DESCRIPTION=Eschalon Book I is an turn-based fantasy RPG game
 EAPI=0
 HOMEPAGE=http://www.basiliskgames.com/book1.htm

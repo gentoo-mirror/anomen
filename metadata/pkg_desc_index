@@ -1,5 +1,5 @@
 app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
-app-misc/anomen-toolset 2018.04.06: Anomen's collection of simple shell scripts
+app-misc/anomen-toolset 2018.06.01: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
 dev-db/dbview 1.0.4: Dbview - view dBase files
 dev-java/jardiff 1.1.0: Compare jar files

@@ -1,0 +1,10 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Anomen's collection of simple shell scripts
+EAPI=4
+HOMEPAGE=https://github.com/anomen-s/anomen-overlay/tree/master/app-misc/anomen-toolset
+IUSE=+xml +jad +mediainfo +xdg +sudo
+KEYWORDS=amd64 x86
+LICENSE=as-is
+RDEPEND=xml? ( dev-libs/libxml2 ) jad? ( dev-java/jad-bin ) mediainfo? ( media-video/mediainfo ) xdg? ( x11-misc/xdg-utils ) virtual/libiconv sudo? ( app-admin/sudo dev-libs/openssl app-misc/screen )
+SLOT=0
+_md5_=b546f878be00505127afaf50b380b235

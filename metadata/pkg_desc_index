@@ -6,7 +6,7 @@ dev-db/sqldeveloper 18.2.0.183.1748: Oracle SQL Developer is a graphical tool fo
 dev-java/jardiff 1.1.0: Compare jar files
 dev-java/jd-gui 0.3.5: A standalone graphical utility that displays Java source codes of .class file
 dev-java/maven-color 2014.01.09: Colorize Maven output
-dev-vcs/mercurial-extensions 2017.07.03: Various Mercurial extensions
+dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts

@@ -2,6 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-java/sun-jdk:derby - Enable Installation of Bundled Derby (Java DB)
-dev-java/sun-jdk:jce - Enable Java Cryptographic Extension Unlimited Strength Policy files
-dev-java/sun-jdk:pax_kernel - Use paxctl to mark the JVM binaries.

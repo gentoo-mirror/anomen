@@ -1,20 +1,8 @@
-app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
-app-misc/anomen-toolset 2018.11.10: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
 dev-db/dbview 1.0.4: Dbview - view dBase files
-dev-db/sqldeveloper 18.2.0.183.1748: Oracle SQL Developer is a graphical tool for database development
-dev-java/jardiff 1.1.0: Compare jar files
-dev-java/jd-gui 0.3.5: A standalone graphical utility that displays Java source codes of .class file
-dev-java/maven-color 2014.01.09: Colorize Maven output
-dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
-games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game
-games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
-media-fonts/tahoma 1: Microsoft's Tahoma font
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
-sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools
-sys-auth/passwdqc 1.2.2: Password strength checking for PAM aware password changing programs
 sys-power/acpitool 0.5.1-r1: A small command line application, intended to be a replacement for the apm tool
 x11-misc/xkeyboard-config 2.25 2.26-r1: X keyboard configuration database

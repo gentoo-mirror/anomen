@@ -5,4 +5,4 @@ net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
 sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools
 sys-power/acpitool 0.5.1-r1: A small command line application, intended to be a replacement for the apm tool
-x11-misc/xkeyboard-config 2.25 2.26-r1: X keyboard configuration database
+x11-misc/xkeyboard-config 2.26-r1 2.27: X keyboard configuration database

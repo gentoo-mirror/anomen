@@ -1,8 +1,56 @@
+app-arch/unarr 1.0.1: A lightweight decompression library with support for rar, tar and zip archives
+app-cdr/binflash 1.63: Tool to flash DVD burner with a binary firmware file
+app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
+app-emulation/wine 2.3: Free implementation of Windows(tm) on Unix
+app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
+app-misc/anomen-toolset 2018.11.10: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
+app-misc/lc 1.0.4: Scans for broken symlinks
+app-text/unicode 2.5: Display unicode character properties
 dev-db/dbview 1.0.4: Dbview - view dBase files
+dev-db/dbvis 9.5.6: DB Visualizer (Free Version)
+dev-db/sqldeveloper 18.2.0.183.1748: Oracle SQL Developer is a graphical tool for database development
+dev-db/squirrel-sql 3.7.1: SQuirreL SQL Client
+dev-java/findbugs 1.3.8: Find Bugs in Java Programs
+dev-java/glassfish 2.1 2.1.1: Glassfish Application Server
+dev-java/jardiff 1.1.0: Compare jar files
+dev-java/jd-gui 0.3.5 1.4.0: JD-GUI is a standalone graphical utility that displays Java source codes of ".class" files
+dev-java/keystore-explorer 5.3.2: Keystore management tool.
+dev-java/maven-color 2014.01.09: Colorize Maven output
+dev-java/portecle 1.9: Keystore management tool.
+dev-libs/openssl 0.9.8l-r3: Toolkit for SSL v2/v3 and TLS v1
+dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
+dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.
+dev-util/asn1c 0.9.21: ASN.1 to C compiler
+dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
+dev-util/idea-ultimate 14.1.7.141.3058.30: A complete toolset for web, mobile and enterprise development
+dev-util/insomnia 6.5.4: The most intuitive cross-platform REST API Client
+dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
+dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
+dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
+dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
+games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
+games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade
+games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game
+games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
+mail-mta/spamsink 0.3: Fake (honey pot) SMTP server
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
+media-fonts/tahoma 1: Microsoft's Tahoma font
+media-gfx/yacreader 9.5.0: A comic reader for cross-platform reading and managing your digital comic collection
+media-libs/libdmtx 0.7.2: open source software for reading and writing Data Matrix barcodes
+media-sound/asoundconf 1.0.14: Asoundconf is a python script to change your default sound card
+media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your default sound card
+media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
+net-analyzer/arp-scan 1.9: ARP scanning and fingerprinting tool
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
+net-analyzer/ssh-audit 1.7.0: SSH server auditing (banner, key exchange, encryption, mac, compression, etc)
+net-misc/freerapid-downloader 0.9.4: Downloader with support for downloading from Rapidshare and other share file archives.
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
+net-nds/ApacheDirectoryStudio 2.0.0.20161101: Apache Directory Studio is an universal LDAP directory tool.
+sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
+sys-apps/it87 9999: Linux IT87 module
 sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools
+sys-auth/passwdqc 1.2.2: Password strength checking for PAM aware password changing programs
+sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r1: A small command line application, intended to be a replacement for the apm tool
 x11-misc/xkeyboard-config 2.26-r1 2.27: X keyboard configuration database

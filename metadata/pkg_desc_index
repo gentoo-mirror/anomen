@@ -51,4 +51,4 @@ sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools
 sys-auth/passwdqc 1.2.2: Password strength checking for PAM aware password changing programs
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r1: A small command line application, intended to be a replacement for the apm tool
-x11-misc/xkeyboard-config 2.26-r1 2.27: X keyboard configuration database
+x11-misc/xkeyboard-config 2.28: X keyboard configuration database

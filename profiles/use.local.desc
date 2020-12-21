@@ -3,3 +3,5 @@
 # * generated automatically using pmaint *
 
 app-text/unicode:unihan - Add support for Unihan properties (unpack data from app-i18n/unicode-data)
+media-gfx/yacreader:pdf - Enable support for PDF reading
+media-gfx/yacreader:qrencode - Enable support for QR code reading

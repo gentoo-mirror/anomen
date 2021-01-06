@@ -5,7 +5,7 @@ app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine 
 app-misc/anomen-toolset 2020.09.19: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
 app-misc/lc 1.0.4: Scans for broken symlinks
-app-text/unicode 2.5: Display unicode character properties
+app-text/unicode 2.8: Display unicode character properties
 dev-db/dbview 1.0.4: Dbview - view dBase files
 dev-db/dbvis 9.5.6: DB Visualizer (Free Version)
 dev-db/sqldeveloper 18.2.0.183.1748: Oracle SQL Developer is a graphical tool for database development

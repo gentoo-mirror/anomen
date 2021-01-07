@@ -22,7 +22,6 @@ dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-python/pyexcelerator 0.6.4.1: Python im-/export filters for MS Excel files. Including xls2txt, xls2csv and xls2html commands.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
-dev-util/idea-ultimate 14.1.7.141.3058.30: A complete toolset for web, mobile and enterprise development
 dev-util/insomnia 7.0.6: The most intuitive cross-platform REST API Client
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.

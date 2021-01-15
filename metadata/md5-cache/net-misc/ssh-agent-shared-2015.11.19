@@ -1,9 +1,9 @@
 DEFINED_PHASES=install unpack
 DESCRIPTION=Anomen's wrapper for ssh-agent
 EAPI=4
-HOMEPAGE=http://repo.or.cz/w/anomen-overlay.git/tree/HEAD:/net-misc/ssh-agent-shared
+HOMEPAGE=https://github.com/anomen-s/anomen-overlay/tree/master/net-misc/ssh-agent-shared
 KEYWORDS=amd64 x86
 LICENSE=GPL-2+
 RDEPEND=net-misc/openssh >=dev-lang/python-2.6
 SLOT=0
-_md5_=c464e3d5faaa2a81b915472733df8b95
+_md5_=8c2ff7f190aed9b69eda9a7a0fa2b8b3

@@ -17,7 +17,6 @@ dev-java/jd-gui 0.3.5 1.4.0: JD-GUI is a standalone graphical utility that displ
 dev-java/keystore-explorer 5.3.2: Keystore management tool.
 dev-java/maven-color 2014.01.09: Colorize Maven output
 dev-java/portecle 1.9: Keystore management tool.
-dev-libs/openssl 0.9.8l-r3: Toolkit for SSL v2/v3 and TLS v1
 dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
@@ -26,7 +25,6 @@ dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running proce
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
-games-fps/duke3d 20040817-r3: Port of the original Duke Nukem 3D
 games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade
 games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
@@ -47,7 +45,6 @@ net-nds/ApacheDirectoryStudio 2.0.0.20161101: Apache Directory Studio is an univ
 sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-apps/it87 9999: Linux IT87 module
 sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools
-sys-auth/passwdqc 1.2.2: Password strength checking for PAM aware password changing programs
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r1: A small command line application, intended to be a replacement for the apm tool
 x11-misc/xkeyboard-config 2.29 2.30 2.31: X keyboard configuration database

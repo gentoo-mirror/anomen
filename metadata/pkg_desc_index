@@ -25,8 +25,6 @@ dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running proce
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
-games-fps/soldieroffortune-demo 0.57-r1: First-person shooter based on the mercenary trade
-games-rpg/eschalon1-demo 1.0: Eschalon Book I is an turn-based fantasy RPG game
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 mail-mta/spamsink 0.3: Fake (honey pot) SMTP server
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts

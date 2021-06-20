@@ -6,12 +6,8 @@ app-misc/anomen-toolset 2020.09.19: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.1.1: Tool for decoding the DTMF and MF tones from PCM wave files.
 app-misc/lc 1.0.4: Scans for broken symlinks
 app-text/unicode 2.8: Display unicode character properties
-dev-db/dbview 1.0.4: Dbview - view dBase files
 dev-db/dbvis 9.5.6: DB Visualizer (Free Version)
 dev-db/sqldeveloper 18.2.0.183.1748: Oracle SQL Developer is a graphical tool for database development
-dev-db/squirrel-sql 3.7.1: SQuirreL SQL Client
-dev-java/findbugs 1.3.8: Find Bugs in Java Programs
-dev-java/glassfish 2.1 2.1.1: Glassfish Application Server
 dev-java/jardiff 1.1.0: Compare jar files
 dev-java/jd-gui 0.3.5 1.4.0: JD-GUI is a standalone graphical utility that displays Java source codes of ".class" files
 dev-java/keystore-explorer 5.3.2: Keystore management tool.
@@ -26,7 +22,6 @@ dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functiona
 dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
-mail-mta/spamsink 0.3: Fake (honey pot) SMTP server
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-gfx/yacreader 9.6.2: A comic reader for cross-platform reading and managing your comic collection
 media-libs/libdmtx 0.7.2: open source software for reading and writing Data Matrix barcodes
@@ -35,10 +30,8 @@ media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your d
 media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-analyzer/ssh-audit 1.7.0: SSH server auditing (banner, key exchange, encryption, mac, compression, etc)
-net-misc/freerapid-downloader 0.9.4: Downloader with support for downloading from Rapidshare and other share file archives.
 net-misc/postman-bin 7.36.1: Supercharge your API workflow
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
-net-nds/ApacheDirectoryStudio 2.0.0.20161101: Apache Directory Studio is an universal LDAP directory tool.
 sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-apps/it87 9999: Linux IT87 module
 sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools

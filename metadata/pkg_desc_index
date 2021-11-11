@@ -39,4 +39,4 @@ sys-apps/it87 9999: Linux IT87 module
 sys-apps/net-tools 1.60_p20160215155418: Standard Linux networking tools
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r1: A small command line application, intended to be a replacement for the apm tool
-x11-misc/xkeyboard-config 2.32 2.33: X keyboard configuration database
+x11-misc/xkeyboard-config 2.33 2.34: X keyboard configuration database

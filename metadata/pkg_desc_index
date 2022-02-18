@@ -11,7 +11,6 @@ dev-db/sqldeveloper 18.2.0.183.1748: Oracle SQL Developer is a graphical tool fo
 dev-java/jardiff 1.1.0: Compare jar files
 dev-java/jd-gui 1.4.0: JD-GUI is a standalone graphical utility that displays Java source codes of ".class" files
 dev-java/keystore-explorer 5.3.2: Keystore management tool.
-dev-java/maven-color 2014.01.09: Colorize Maven output
 dev-java/portecle 1.9: Keystore management tool.
 dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-util/asn1c 0.9.21: ASN.1 to C compiler

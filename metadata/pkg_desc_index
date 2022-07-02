@@ -12,7 +12,6 @@ dev-java/jardiff 1.1.0: Compare jar files
 dev-java/jd-gui 1.4.0: JD-GUI is a standalone graphical utility that displays Java source codes of ".class" files
 dev-java/keystore-explorer 5.3.2: Keystore management tool.
 dev-java/portecle 1.9: Keystore management tool.
-dev-perl/SMTP-Server 1.1: Perl Net::SMTP::Server - Perl SMTP::SERVER Module
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/insomnia 7.0.6: The most intuitive cross-platform REST API Client

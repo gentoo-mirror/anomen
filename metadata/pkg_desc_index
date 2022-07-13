@@ -22,7 +22,7 @@ dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 mail-mta/spamsink 0.3: Fake (honey pot) SMTP server
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
-media-gfx/yacreader 9.6.2: A comic reader for cross-platform reading and managing your comic collection
+media-gfx/yacreader 9.8.2: A comic reader for cross-platform reading and managing your comic collection
 media-sound/asoundconf 1.0.14: Asoundconf is a python script to change your default sound card
 media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your default sound card
 media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor

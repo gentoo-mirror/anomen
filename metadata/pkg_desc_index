@@ -2,6 +2,7 @@ app-arch/unarr 1.0.1: A lightweight decompression library with support for rar, 
 app-cdr/binflash 1.63: Tool to flash DVD burner with a binary firmware file
 app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
 app-misc/anomen-toolset 2021.08.26: Anomen's collection of simple shell scripts
+app-misc/dtmf2num 0.2: Tool for decoding the DTMF and MF tones from PCM wave files.
 app-text/unicode 2.8: Display unicode character properties
 dev-java/jardiff 1.1.0: Compare jar files
 dev-java/keystore-explorer 5.3.2: Keystore management tool.

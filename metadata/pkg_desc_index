@@ -21,6 +21,7 @@ media-gfx/yacreader 9.8.2: A comic reader for cross-platform reading and managin
 media-sound/asoundconf 1.0.14: Asoundconf is a python script to change your default sound card
 media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your default sound card
 media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
+net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-analyzer/ssh-audit 1.7.0: SSH server auditing (banner, key exchange, encryption, mac, compression, etc)
 net-misc/postman-bin 7.36.1: Supercharge your API workflow
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent

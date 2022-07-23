@@ -1,10 +1,10 @@
 DEFINED_PHASES=install unpack
 DESCRIPTION=Compare jar files
-EAPI=3
+EAPI=7
 HOMEPAGE=http://muzso.hu/2010/11/20/jardiff-create-a-diff-of-the-public-api-of-two-jar-files
 KEYWORDS=amd64 x86
 LICENSE=CCPL-Attribution-ShareAlike-NonCommercial-3.0
 RDEPEND=app-arch/unzip virtual/jdk
 SLOT=0
-SRC_URI=http://muzso.hu/dfiles/public/jardiff-1.1.0.sh
-_md5_=7c58730aec404e9e20215b0e5172dce0
+SRC_URI=http://muzso.hu/dfiles/public/jardiff-1.2.0.sh
+_md5_=7ff9b17922f268fc8ce8e3bf10e79a33

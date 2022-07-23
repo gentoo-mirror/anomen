@@ -28,6 +28,7 @@ net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-analyzer/ssh-audit 1.7.0: SSH server auditing (banner, key exchange, encryption, mac, compression, etc)
 net-misc/postman-bin 7.36.1: Supercharge your API workflow
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
+net-nds/ApacheDirectoryStudio 2.0.0.20210717: Apache Directory Studio is an universal LDAP directory tool.
 sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r2: A replacement for the APM tool

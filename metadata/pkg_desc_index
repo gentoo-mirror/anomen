@@ -1,4 +1,3 @@
-app-arch/unarr 1.0.1: A lightweight decompression library with support for rar, tar and zip archives
 app-cdr/binflash 1.63: Tool to flash DVD burner with a binary firmware file
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes

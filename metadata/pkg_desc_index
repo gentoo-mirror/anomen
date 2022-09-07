@@ -13,7 +13,7 @@ dev-java/portecle 1.11: Keystore management tool.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/idea-community 2021.3.3.213.7172.25: A complete toolset for web, mobile and enterprise development
-dev-util/insomnia 7.0.6: The most intuitive cross-platform REST API Client
+dev-util/insomnia 2022.5.1: The most intuitive cross-platform REST API Client
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux

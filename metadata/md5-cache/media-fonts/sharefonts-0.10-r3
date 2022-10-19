@@ -10,5 +10,5 @@ LICENSE=all-rights-reserved
 RESTRICT=mirror bindist
 SLOT=0
 SRC_URI=mirror://gimp/fonts/sharefonts-0.10.tar.gz
-_eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
+_eclasses_=font	bc7d91ca9054e47ad87b5763214665a4
 _md5_=33d5dceac140bb6eea4d82b5a9b0d9fa

@@ -14,7 +14,7 @@ dev-java/portecle 1.11: Keystore management tool.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/idea-community 2021.3.3.213.7172.25: A complete toolset for web, mobile and enterprise development
-dev-util/insomnia 2022.5.1: The most intuitive cross-platform REST API Client
+dev-util/insomnia 2023.1.0: The most intuitive cross-platform REST API Client
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
@@ -22,8 +22,6 @@ dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-gfx/yacreader 9.11.0: A comic reader for cross-platform reading and managing your comic collection
-media-sound/asoundconf 1.0.14: Asoundconf is a python script to change your default sound card
-media-sound/asoundconf-gtk 1.5.1: Asoundconf is a python script to change your default sound card
 media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-misc/postman-bin 7.36.1: Supercharge your API workflow

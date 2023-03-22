@@ -22,7 +22,7 @@ dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-gfx/yacreader 9.11.0: A comic reader for cross-platform reading and managing your comic collection
-media-sound/cutmp3 1.9.2: A small and fast command line MP3 editor
+media-sound/cutmp3 3.0.1: A small and fast command line MP3 editor
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-misc/postman-bin 7.36.1: Supercharge your API workflow
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent

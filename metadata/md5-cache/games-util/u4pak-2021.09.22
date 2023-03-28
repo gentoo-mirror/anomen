@@ -1,12 +1,12 @@
 DEFINED_PHASES=install unpack
 DEPEND=fuse? ( dev-python/llfuse )
 DESCRIPTION=Tool for [un]packing Unreal Engine 4 .pak archives
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/panzi/u4pak
 IUSE=-fuse
 KEYWORDS=amd64 x86
 LICENSE=as-is
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://raw.githubusercontent.com/panzi/u4pak/66ab16e/u4pak.py -> 66ab16e-u4pak.py
-_md5_=38d3ecf4baabc31a3fe557c513526635
+SRC_URI=https://raw.githubusercontent.com/panzi/u4pak/d4f447f/u4pak.py -> d4f447f-u4pak.py https://raw.githubusercontent.com/panzi/u4pak/d4f447f/README.md -> d4f447f-README.md
+_md5_=929b4d5bd3e810f1a692648457dd09f2

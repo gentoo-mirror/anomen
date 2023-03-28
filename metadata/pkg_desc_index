@@ -19,7 +19,7 @@ dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running proce
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
-games-util/u4pak 2014.10.06: Tool for [un]packing Unreal Engine 4 .pak archives
+games-util/u4pak 2021.09.22: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-gfx/yacreader 9.11.0: A comic reader for cross-platform reading and managing your comic collection
 media-sound/cutmp3 3.0.1: A small and fast command line MP3 editor

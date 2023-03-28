@@ -1,5 +1,4 @@
 app-arch/unarr 1.0.1: A lightweight decompression library with support for rar, tar and zip archives
-app-cdr/binflash 1.63: Tool to flash DVD burner with a binary firmware file
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
 app-misc/anomen-toolset 2021.08.26: Anomen's collection of simple shell scripts
@@ -17,7 +16,6 @@ dev-util/idea-community 2021.3.3.213.7172.25: A complete toolset for web, mobile
 dev-util/insomnia 2023.1.0: The most intuitive cross-platform REST API Client
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
-dev-vcs/gitkraken-bin 2.7.0: The downright luxurious Git client,for Windows, Mac & Linux
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-util/u4pak 2021.09.22: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts

@@ -1,5 +1,4 @@
 app-arch/unarr 1.0.1: A lightweight decompression library with support for rar, tar and zip archives
-app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
 app-misc/anomen-toolset 2021.08.26: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.2: Tool for decoding the DTMF and MF tones from PCM wave files.
@@ -9,10 +8,8 @@ dev-java/jad-bin 1.5.8e-r1: Jad - The fast JAva Decompiler
 dev-java/jardiff 1.2.0: Compare jar files
 dev-java/jd-gui 1.6.6: A standalone graphical utility that displays Java source codes of .class file
 dev-java/keystore-explorer 5.3.2: Keystore management tool.
-dev-java/portecle 1.11: Keystore management tool.
 dev-util/asn1c 0.9.21: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
-dev-util/insomnia 2023.1.0: The most intuitive cross-platform REST API Client
 dev-util/memfetch 0.0.5b: A simple utility to dump all memory of a running process
 dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
@@ -20,12 +17,9 @@ games-util/u4pak 2021.09.22: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-gfx/yacreader 9.13.1: A comic reader for cross-platform reading and managing your comic collection
 media-sound/cutmp3 3.0.1: A small and fast command line MP3 editor
-net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
-net-misc/postman-bin 7.36.1: Supercharge your API workflow
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
 net-nds/ApacheDirectoryStudio 2.0.0.20210717: Apache Directory Studio is an universal LDAP directory tool.
 sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r2: A replacement for the APM tool
-www-plugins/FormAppsSigningExtension 2.2.0.321.170331: FormAppsSigningExtension
 x11-misc/xkeyboard-config 2.38: X keyboard configuration database

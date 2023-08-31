@@ -20,6 +20,8 @@ games-util/u4pak 2021.09.22: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
 media-gfx/yacreader 9.13.1: A comic reader for cross-platform reading and managing your comic collection
 media-sound/cutmp3 3.0.1: A small and fast command line MP3 editor
+net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
+net-misc/postman-bin 10.17.4: Supercharge your API workflow
 net-misc/ssh-agent-shared 2015.11.19: Anomen's wrapper for ssh-agent
 net-nds/ApacheDirectoryStudio 2.0.0.20210717: Apache Directory Studio is an universal LDAP directory tool.
 sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages

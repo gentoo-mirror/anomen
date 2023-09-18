@@ -28,4 +28,4 @@ sys-apps/groff-utf8 1: GNU groff wrapper taking UTF-8 encoded manual pages
 sys-fs/fusepak 0.5: FUSE file system to browse WAD and PACK archives
 sys-power/acpitool 0.5.1-r2: A replacement for the APM tool
 www-plugins/FormAppsSigningExtension 2.2.1.0: FormAppsSigningExtension
-x11-misc/xkeyboard-config 2.38: X keyboard configuration database
+x11-misc/xkeyboard-config 2.39: X keyboard configuration database

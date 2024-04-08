@@ -18,7 +18,7 @@ dev-util/soapui 5.4.0: SoapUI is a free and open source cross-platform Functiona
 dev-vcs/mercurial-extensions 2019.04.04: Various Mercurial extensions
 games-util/u4pak 2021.09.22: Tool for [un]packing Unreal Engine 4 .pak archives
 media-fonts/sharefonts 0.10-r3: A Collection of Postscript Type1 Fonts
-media-gfx/yacreader 9.13.1: A comic reader for cross-platform reading and managing your comic collection
+media-gfx/yacreader 9.14.2: A comic reader for cross-platform reading and managing your comic collection
 media-sound/cutmp3 3.0.1: A small and fast command line MP3 editor
 net-analyzer/dhcpstarv 0.2.2: Utility for DHCP starvation attacks
 net-misc/postman-bin 10.17.4: Supercharge your API workflow

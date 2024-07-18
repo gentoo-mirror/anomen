@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst prepare
+DEPEND=app-arch/unzip
+DESCRIPTION=SoapUI is a free and open source cross-platform Functional Testing solution.
+EAPI=6
+HOMEPAGE=http://www.soapui.org/
+INHERIT=desktop wrapper
+KEYWORDS=~amd64 ~x86
+LICENSE=EUPL-1.1
+RDEPEND=>=virtual/jre-1.6
+RESTRICT=strip mirror
+SLOT=0
+SRC_URI=https://s3.amazonaws.com/downloads.eviware/soapuios/5.4.0/SoapUI-5.4.0-linux-bin.tar.gz
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	wrapper	4a1902f969e5718126434fc35f3a0d9c
+_md5_=a47676882cab663cf9e53c7967069129

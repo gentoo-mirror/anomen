@@ -8,5 +8,5 @@ LICENSE=Apache-2.0
 RDEPEND=|| ( >=virtual/jre-1.8 >=virtual/jdk-1.8 ) x11-libs/gtk+:2 app-crypt/libsecret
 SLOT=0
 SRC_URI=https://archive.apache.org/dist/directory/studio/2.0.0.v20210717-M17/ApacheDirectoryStudio-2.0.0.v20210717-M17-linux.gtk.x86_64.tar.gz
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3
+_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6	xdg-utils	5465aed08f1dfc2a75f14cbea4272961
 _md5_=124b748f37a649c45e65b1dfb25bc7f9

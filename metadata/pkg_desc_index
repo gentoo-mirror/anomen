@@ -9,6 +9,7 @@ dev-java/jad-bin 1.5.8e-r1: Jad - The fast JAva Decompiler
 dev-java/jardiff 1.2.0: Compare jar files
 dev-java/jd-gui 1.6.6: A standalone graphical utility that displays Java source codes of .class file
 dev-java/keystore-explorer 5.5.3: Keystore management tool.
+dev-java/portecle 1.11: Keystore management tool.
 dev-util/asn1c 0.9.28: ASN.1 to C compiler
 dev-util/dex2jar-bin 2.0: Tools to work with android .dex and java .class files
 dev-util/insomnia 2023.5.7: The most intuitive cross-platform REST API Client

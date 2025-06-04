@@ -3,7 +3,6 @@ app-crypt/steghide 0.5.1: A steganography program which hides data in various me
 app-emulation/wine-cellar 2018.01.01: Anomen's set of scripts for managing Wine prefixes
 app-misc/anomen-toolset 2025.01.18: Anomen's collection of simple shell scripts
 app-misc/dtmf2num 0.2: Tool for decoding the DTMF and MF tones from PCM wave files.
-app-text/unicode 2.9: Display unicode character properties
 dev-db/dbvis 13.0.4 23.1: DB Visualizer (Free Version)
 dev-java/jad-bin 1.5.8e-r1: Jad - The fast JAva Decompiler
 dev-java/jardiff 1.2.0: Compare jar files
